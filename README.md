@@ -1,7 +1,8 @@
 # TheCodingTrainChallanges
 
-Please read http://aridevelopment.de/shiffman_contributes/howto for more information!
+Webservice is closed!
 
+  
 You need to install the following librarys:
 - mongopy
 
